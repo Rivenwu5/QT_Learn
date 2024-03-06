@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/pro_images">
+        <file>cup.png</file>
+        <file>sanwish.png</file>
+        <file>ice.png</file>
+    </qresource>
+</RCC>

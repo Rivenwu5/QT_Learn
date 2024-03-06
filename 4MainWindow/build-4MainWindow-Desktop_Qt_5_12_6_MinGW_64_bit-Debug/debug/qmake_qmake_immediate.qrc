@@ -1,0 +1,7 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/">
+<file alias="imgs/???.png">E:/myComputer/QT_projects/4MainWindow/4MainWindow/imgs/???.png</file>
+<file alias="imgs/??.png">E:/myComputer/QT_projects/4MainWindow/4MainWindow/imgs/??.png</file>
+<file alias="imgs/???.png">E:/myComputer/QT_projects/4MainWindow/4MainWindow/imgs/???.png</file>
+</qresource>
+</RCC>
